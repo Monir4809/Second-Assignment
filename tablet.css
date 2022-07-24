@@ -1,0 +1,4 @@
+/* medium devices (phones, 768px and down) */
+.section>.half-with img{
+    background-color: rgb(126, 60, 60);
+}
